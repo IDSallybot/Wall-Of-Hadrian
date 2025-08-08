@@ -20,7 +20,7 @@ main {
 
 article {
   margin-bottom: 2rem;
-  background: sage;
+  background: green;
   padding: 1rem;
   border-radius: 5px;
 }
@@ -33,15 +33,4 @@ footer {
   padding: 1.5rem;
   border-top: 4px solid #90EE90; /* Darker sage accent */
   font-family: "Papyrus", fantasy;
-}
-
-footer a {
-  color: #333;
-  text-decoration: none;
-  font-weight: bold;
-  transition: color 0.3s ease;
-}
-
-footer a:hover {
-  color: #4F7942; /* Deep fern green */
 }
