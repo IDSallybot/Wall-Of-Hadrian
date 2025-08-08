@@ -1,6 +1,6 @@
 body {
   font-family: "Papyrus", fantasy;
-  line-height: 1.6;
+  line-height: 2.6;
   margin: 0;
   padding: 0;
   background: #4FC978;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: #2c3e50;
+  background: #90EE90;
   color: sage;
   padding: 2rem;
   text-align: center;
@@ -31,7 +31,7 @@ footer {
   color: #333;
   text-align: center;
   padding: 1.5rem;
-  border-top: 4px solid #7D8054; /* Darker sage accent */
+  border-top: 4px solid #90EE90; /* Darker sage accent */
   font-family: "Papyrus", fantasy;
 }
 
