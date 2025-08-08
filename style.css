@@ -3,7 +3,7 @@ body {
   line-height: 2.6;
   margin: 0;
   padding: 0;
-  background: #4FC978;
+  background: #F2F0EA;
   color: #333;
 }
 
@@ -27,7 +27,7 @@ article {
 
 footer {
   footer {
-  background-color: #9CAF88; /* Sage Green */
+  background-color: #F2F0EA; /* Sage Green */
   color: #333;
   text-align: center;
   padding: 1.5rem;
