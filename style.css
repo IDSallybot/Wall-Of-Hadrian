@@ -1,15 +1,15 @@
 body {
-  font-family: "Papyrus", fantasy;
+  font-family: 'Segoe UI', sans-serif;
   line-height: 2.6;
   margin: 0;
   padding: 0;
-  background: #F2F0EA;
+  background: #FEFBEA;
   color: #333;
 }
 
 header {
-  background: #90EE90;
-  color: sage;
+  background: #31572C;
+  color: green;
   padding: 2rem;
   text-align: center;
 }
